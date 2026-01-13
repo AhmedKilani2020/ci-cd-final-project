@@ -22,3 +22,6 @@ jobs:
         run: npm run lint
       - name: Run unit tests with Jest
         run: npm test
+      - name: Run unit tests with Jest
+        run: npm test
+
